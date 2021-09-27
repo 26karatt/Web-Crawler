@@ -1,0 +1,40 @@
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\appsettings.json
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.exe
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.deps.json
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.runtimeconfig.json
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.runtimeconfig.dev.json
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.dll
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\ref\Website  Crawler.dll
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.pdb
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.Views.dll
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\bin\Debug\net5.0\Website  Crawler.Views.pdb
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.csproj.AssemblyReference.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.AssemblyInfoInputs.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.AssemblyInfo.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.csproj.CoreCompileInputs.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.RazorAssemblyInfo.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.RazorAssemblyInfo.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\staticwebassets\Website  Crawler.StaticWebAssets.Manifest.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\staticwebassets\Website  Crawler.StaticWebAssets.xml
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\scopedcss\bundle\Website  Crawler.styles.css
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.TagHelpers.input.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.TagHelpers.output.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.RazorCoreGenerate.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.RazorTargetAssemblyInfo.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.RazorTargetAssemblyInfo.cs
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.Views.pdb
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.dll
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\ref\Website  Crawler.dll
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.pdb
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.genruntimeconfig.cache
+C:\Users\Volodia\source\repos\Website  Crawler\Website  Crawler\obj\Debug\net5.0\Website  Crawler.csproj.CopyComplete
