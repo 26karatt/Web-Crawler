@@ -21,14 +21,14 @@ namespace Website__Crawler
         {
             try
             {
-                using (HttpClientHandler hdl = new HttpClientHandler { AllowAutoRedirect = false, })
+                using (HttpClientHandler hdl = new HttpClientHandler { AllowAutoRedirect = false, }) 
                 {
                     using (var clnt = new HttpClient ( hdl) );
                 }
             }
             catch (Exception ex) { Console.WriteLine(ex.Message); }
             return null;
-
+            
         }
     }
 }
